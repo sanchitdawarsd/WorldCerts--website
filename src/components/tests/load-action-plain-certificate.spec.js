@@ -25,7 +25,7 @@ test("Load document from action should work when url is valid", async (t) => {
   await validateTextContent(t, StatusButton, ["Certificate issued by ROPSTEN: "]);
 
   await validateTextContent(t, CertificateStatusBanner, [
-    "Certificate issuer is in the SkillsFuture Singapore registry for Worldcerts",
+    "Certificate issuer is in the World Certification Institute registry for Worldcerts",
   ]);
 
   await t.switchToIframe(IframeBlock);
