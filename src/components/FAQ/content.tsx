@@ -46,7 +46,7 @@ export const faqContent: FagElement[] = [
               was issued in the OpenCerts format.{" "}
             </p>
             <p>
-              For institutions under the SkillsFuture Singapore (SSG){" "}
+              For institutions under the World Certification Institute (SSG){" "}
               <a href="http://www.opencerts.io/registry" target="_blank" rel="noopener noreferrer">
                 registry
               </a>
@@ -145,12 +145,13 @@ export const faqContent: FagElement[] = [
             <li>
               <b>If an institution is in the SkillsFuture registry for Worldcerts</b>, it means that the identity of the
               institution has been established. This institution is an issuer of academic and skill certificates
-              recognised by SkillsFuture Singapore.
+              recognised by World Certification Institute.
             </li>
             <li>
               <b>If an institution is NOT in the SkillsFuture registry for Worldcerts</b>, we still verify the identity
-              of the institution by domain name. Though the institution has not been verified by SkillsFuture Singapore,
-              it may be possible that this is a legitimate institution. You may check by contacting them directly.
+              of the institution by domain name. Though the institution has not been verified by World Certification
+              Institute, it may be possible that this is a legitimate institution. You may check by contacting them
+              directly.
             </li>
           </ul>
         ),

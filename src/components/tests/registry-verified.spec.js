@@ -19,7 +19,7 @@ test("Sample document is rendered correctly when single registry is verified", a
   await validateTextContent(t, StatusButton, ["Certificate issued by ROPSTEN: "]);
 
   await validateTextContent(t, CertificateStatusBanner, [
-    "Certificate issuer is in the SkillsFuture Singapore registry for Worldcerts",
+    "Certificate issuer is in the World Certification Institute registry for Worldcerts",
   ]);
 
   await t.switchToIframe(IframeBlock);
