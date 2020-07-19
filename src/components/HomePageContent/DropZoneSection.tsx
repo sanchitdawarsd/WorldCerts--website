@@ -41,7 +41,7 @@ const DraggableDemoCertificate: React.FunctionComponent = () => (
         >
           Drag me over here to see a demo certificate and other features
         </span>
-        <img src="/static/images/opencertslogo.svg" width="100%" draggable="false" />
+        <img src="/static/images/opencertslogo.png" width="100%" draggable="false" />
       </div>
     </div>
   </div>
