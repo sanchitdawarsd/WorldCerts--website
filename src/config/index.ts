@@ -32,7 +32,7 @@ export const ENVIRONMENT = publicRuntimeConfig.context === "production" ? "produ
 
 export const DEFAULT_SEO = {
   title: "An easy way to check and verify your certificates",
-  titleTemplate: `OpenCerts - %s`,
+  titleTemplate: `WorldCerts - %s`,
   description:
     "Whether you're a student or an employer, WorldCerts lets you verify the certificates you have of anyone from any institution. All in one place.",
   openGraph: {
@@ -46,7 +46,7 @@ export const DEFAULT_SEO = {
         url: `${URL}/static/images/opencerts.png`,
         width: 800,
         height: 600,
-        alt: "OpenCerts",
+        alt: "WorldCerts",
       },
     ],
   },
