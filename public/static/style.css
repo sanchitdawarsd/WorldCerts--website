@@ -67,7 +67,11 @@ h6 {
 }
 
 .bg-brand-dark {
-  background-color: #324353;
+  background-color: #0e1b33;
+  -webkit-print-color-adjust: exact;
+}
+.bg-brand-dark-foot {
+  background-color: #151922;
   -webkit-print-color-adjust: exact;
 }
 
@@ -88,7 +92,7 @@ h6 {
 }
 
 .text-brand-dark {
-  color: #324353;
+  color: #0e1b33;
 }
 
 li.slanted-tab {

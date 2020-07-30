@@ -5,7 +5,7 @@ import collaborators from "./collaborators.json";
 
 const CollaboratePage: React.FunctionComponent = () => (
   <>
-    <div className="container-fluid" style={{ backgroundColor: "#324353" }}>
+    <div className="container-fluid" style={{ backgroundColor: "#0E1B33" }}>
       <div className={`container bg-brand-dark text-white ${css["r-section"]}`}>
         <h1 id="page-title" className={`col-12 ${css["m-pd-0"]} ${css["section-width"]}`}>
           Collaborate
