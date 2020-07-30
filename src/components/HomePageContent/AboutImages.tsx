@@ -278,7 +278,7 @@ const aboutImages = {
           />
         </g>
         <g>
-          <text transform="translate(60.89 21.81)" fontSize="12.8" fill="#324353">
+          <text transform="translate(60.89 21.81)" fontSize="12.8" fill="#0E1B33">
             blockchain
           </text>
         </g>
@@ -540,7 +540,7 @@ const aboutImages = {
           <linearGradient id="threef" x1="-166.84" y1="359.04" x2="-166.84" y2="360.04" gradientTransform="matrix(36.9, 0, 0, -14.68, 6364.23, 5341.07)" xlinkHref="#threed"/>
           <linearGradient id="threeg" x1="34.84" x2="34.84" y2="37" gradientUnits="userSpaceOnUse">
             <stop offset="0" stopColor="#fff"/>
-            <stop offset="1" stopColor="#324353"/>
+            <stop offset="1" stopColor="#0E1B33"/>
           </linearGradient>
           <linearGradient id="threej" x1="207.29" y1="0" x2="207.29" y2="37" xlinkHref="#threeg"/>
         </defs>
@@ -800,25 +800,25 @@ const aboutImages = {
         <g>
           <line x1="18.87" y1="82.44" x2="187.1" y2="82.39" fill="#fff" />
           <g>
-            <line x1="18.87" y1="82.44" x2="20.87" y2="82.44" fill="none" stroke="#324353" />
-            <line x1="24.87" y1="82.44" x2="183.1" y2="82.4" fill="none" stroke="#324353" strokeDasharray="4.01 4.01" />
-            <line x1="185.1" y1="82.4" x2="187.1" y2="82.39" fill="none" stroke="#324353" />
+            <line x1="18.87" y1="82.44" x2="20.87" y2="82.44" fill="none" stroke="#0E1B33" />
+            <line x1="24.87" y1="82.44" x2="183.1" y2="82.4" fill="none" stroke="#0E1B33" strokeDasharray="4.01 4.01" />
+            <line x1="185.1" y1="82.4" x2="187.1" y2="82.39" fill="none" stroke="#0E1B33" />
           </g>
         </g>
         <g>
           <line x1="75.18" y1="29.81" x2="144.33" y2="29.81" fill="#fff" />
           <g>
-            <line x1="75.18" y1="29.81" x2="77.18" y2="29.81" fill="none" stroke="#324353" />
+            <line x1="75.18" y1="29.81" x2="77.18" y2="29.81" fill="none" stroke="#0E1B33" />
             <line
               x1="81.02"
               y1="29.81"
               x2="140.41"
               y2="29.81"
               fill="none"
-              stroke="#324353"
+              stroke="#0E1B33"
               strokeDasharray="3.83 3.83"
             />
-            <line x1="142.33" y1="29.81" x2="144.33" y2="29.81" fill="none" stroke="#324353" />
+            <line x1="142.33" y1="29.81" x2="144.33" y2="29.81" fill="none" stroke="#0E1B33" />
           </g>
         </g>
       </svg>

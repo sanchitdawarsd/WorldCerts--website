@@ -3,8 +3,8 @@ import React from "react";
 import css from "./footer.module.scss";
 
 const NavigationBar: React.FunctionComponent = () => (
-  <div className="bg-brand-dark" id={css["footer-print"]}>
-    <div className={css.footer}>
+  <div className="bg-brand-dark-foot">
+    <div>
       <div>
         <Link href="/collaborate">
           <a>Collaborate</a>

@@ -17,7 +17,7 @@ const RegistryPage: React.FunctionComponent = () => {
   const groups = groupBy(partners, (partner) => partner.group || partner.id);
   return (
     <>
-      <div className="container-fluid" style={{ backgroundColor: "#324353" }}>
+      <div className="container-fluid" style={{ backgroundColor: "#0E1B33" }}>
         <div className={`container bg-brand-dark text-white ${css["r-section"]}`}>
           <h1 className={`col-12 ${css["m-pd-0"]} ${css["section-width"]}`}>Registry</h1>
         </div>
