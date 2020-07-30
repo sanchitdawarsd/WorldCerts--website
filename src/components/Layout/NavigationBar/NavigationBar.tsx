@@ -29,7 +29,7 @@ const NavigationBar: React.FunctionComponent<NavigationBarProps> = ({ active }) 
     <div className={css.innerbar}>
       <Link href="/">
         <a className="navbar-brand">
-          <img src="/static/images/opencertslogo.png" alt="OpenCerts" />
+          <img src="/static/images/opencertslogo.png" width="250px" alt="OpenCerts" />
         </a>
       </Link>
       <button
